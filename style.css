@@ -21,7 +21,7 @@ a:hover{color:var(--ink);}
 
 header{padding:80px 0 8px;}
 header p.tag{
-  font-family:'Inter', sans-serif; font-size:13px; letter-spacing:0.06em; text-transform:uppercase;
+  font-family:'Inter', sans-serif; font-size:12px; letter-spacing:0.06em; text-transform:uppercase;
   color:var(--accent); margin:0 0 18px;
 }
 h1{
@@ -29,7 +29,7 @@ h1{
 }
 
 main p{margin:0 0 26px;}
-main .lead{font-size:21px;}
+main .lead{font-size:19px;}
 
 .signoff{
   font-style:italic; color:var(--ink-soft); margin:44px 0 0;
