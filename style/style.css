@@ -70,5 +70,9 @@ body{transition:background-color .2s ease, color .2s ease;}
   position:absolute; top:50px; right:430px; width:150px; height:auto;
 }
 @media (max-width:600px){
-  .doodle{display:none;}
+  .doodle{
+    width:80px;
+    top:20px;
+    right:20px;
+  }
 }
